@@ -10,6 +10,7 @@
 * commit
 * push
 * fetch / pull
+* stash
 * pull request
 * feature branches
 * merge conflicts
